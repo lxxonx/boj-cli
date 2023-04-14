@@ -23,6 +23,6 @@
     "cheerio": "^1.0.0-rc.12",
     "diff": "^5.1.0",
     "node-watch": "^0.7.3",
-    "puppeteer": "^19.7.5"
+    "puppeteer": "^19.8.0"
   }
 }
